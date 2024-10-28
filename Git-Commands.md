@@ -1,6 +1,4 @@
-Here’s a Markdown (.md) guide to common Git commands, organized by typical tasks. You can save this as `Git-Commands.md`.
 
-```markdown
 # Git Commands Documentation
 
 ## Table of Contents
